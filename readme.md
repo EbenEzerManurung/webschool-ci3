@@ -1,5 +1,5 @@
 
-##@ webschool ci3
+### webschool ci3
 
 
 ## Screenshot 
@@ -20,6 +20,7 @@ PHP version <=7.4 or newer is recommended.
 
 ************
 Installation
+https://github.com/EbenEzerManurung/webschool-ci3.git
 ************
 
 
