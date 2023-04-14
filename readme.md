@@ -1,5 +1,5 @@
 
-### webschool ci3
+# webschool ci3
 
 
 ## Screenshot 
@@ -17,7 +17,7 @@
 Server Requirements
 *******************
 
-PHP version <=7.4 or newer is recommended.
+PHP version <=7.4 is recommended.
 
 
 ************
