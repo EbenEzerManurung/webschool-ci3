@@ -25,11 +25,3 @@ Installation
 
 git clone https://github.com/EbenEzerManurung/webschool-ci3.git
 ************
-
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
